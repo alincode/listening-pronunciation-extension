@@ -1,0 +1,29 @@
+{
+  "name": "Cambridge Dictionary Extension",
+  "version": "0.0.1",
+  "description": "Allows pronunciation keyboard shortcuts.",
+  "manifest_version": 2,
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+   "permissions": [
+    "tabs", "http://dictionary.cambridge.org/*"
+  ],
+  "commands": {
+    "pron-uk": {
+      "suggested_key": {
+        "default": "Alt+Shift+2",
+        "mac": "Command+2"
+      },
+      "description": "listen to British English pronunciation"
+    },
+    "pron-us": {
+      "suggested_key": {
+        "default": "Alt+Shift+1",
+        "mac": "Command+1"
+      },
+      "description": "listen to American English pronunciation"
+    }
+  }
+}
