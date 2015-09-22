@@ -1,7 +1,6 @@
 /*
- * Copyright Alinlin Liou 2015
+ * Copyright AiLin Liou 2015
  */
-
 chrome.commands.onCommand.addListener(function(command){
 	// TODO: improve chrome.tabs.executescript passing parameters
 	if (command == "pron-uk") {
