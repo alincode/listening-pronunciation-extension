@@ -1,4 +1,14 @@
-# cambridge-dictionary-extension
+# Cambridge dictionary extension
 
 
-- Enables new keyboard shortcuts (Command + 1) and (Command + 2) to toggle English pronunciation.
+- Enables keyboard shortcuts to toggle English pronunciation.
+
+## Shortcut
+
+### Mac OS
+- Command + 1 ：listen to American English pronunciation
+- Command + 2 ：listen to British English pronunciation
+
+### Other OS
+- Alt + Shift + 1 ：listen to American English pronunciation
+- Alt + Shift + 2 ：listen to British English pronunciation
