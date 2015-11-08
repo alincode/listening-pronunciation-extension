@@ -11,17 +11,10 @@
     "tabs", "http://dictionary.cambridge.org/*"
   ],
   "commands": {
-    "pron-uk": {
-      "suggested_key": {
-        "default": "Alt+Shift+2",
-        "mac": "Command+2"
-      },
-      "description": "listen to British English pronunciation"
-    },
     "pron-us": {
       "suggested_key": {
         "default": "Alt+Shift+1",
-        "mac": "Command+1"
+        "mac": "Command + E"
       },
       "description": "listen to American English pronunciation"
     }

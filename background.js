@@ -3,15 +3,10 @@
  */
 chrome.commands.onCommand.addListener(function(command){
 	// TODO: improve chrome.tabs.executescript passing parameters
-	if (command == "pron-uk") {
+	console.log(command);
+       if(command == "pron-us") {
 		chrome.tabs.executeScript({
     		code: 'document.getElementsByClassName("sound")[1].click()'	
   		});
-	}else if (command == "pron-us") {
-		chrome.tabs.executeScript({
-    		code: 'document.getElementsByClassName("sound")[0].click()'	
-  		});
-	}else{
-		console.log(command);
 	}
 });
