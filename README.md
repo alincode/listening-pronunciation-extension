@@ -6,9 +6,8 @@
 ## Shortcut
 
 ### Mac OS
-- Command + 1 ：listen to American English pronunciation
-- Command + 2 ：listen to British English pronunciation
+- Command + E ：listen to American English pronunciation
 
 ### Other OS
 - Alt + Shift + 1 ：listen to American English pronunciation
-- Alt + Shift + 2 ：listen to British English pronunciation
+
