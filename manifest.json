@@ -5,15 +5,15 @@
   "manifest_version": 2,
   "background": {
     "persistent": false,
-    "scripts": ["background.js"]
+    "scripts": ["background.js", "content_script.js"]
   },
    "permissions": [
-    "tabs", "http://dictionary.cambridge.org/*"
+    "tabs", "http://dictionary.cambridge.org/*", "http://cdict.net/*"
   ],
   "commands": {
-    "pron-us": {
+    "pronunciation": {
       "suggested_key": {
-        "default": "Alt+Shift+1",
+        "default": "Alt + E",
         "mac": "Command + E"
       },
       "description": "listen to American English pronunciation"

@@ -1,7 +1,7 @@
-# Cambridge dictionary extension
-
+# dictionary extension
 
 - Enables keyboard shortcuts to toggle English pronunciation.
+- support cambridge and cdist website
 
 ## Shortcut
 
@@ -9,5 +9,4 @@
 - Command + E ：listen to American English pronunciation
 
 ### Other OS
-- Alt + Shift + 1 ：listen to American English pronunciation
-
+- Alt + Shift + E ：listen to American English pronunciation
