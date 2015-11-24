@@ -14,6 +14,9 @@
 - Alt + Shift + E ：listen to American English pronunciation
 
 ## TODO list
-- [] search history
-- [] connect with quizlet
-- [] support more dictionary
+- [ ] search history
+- [ ] connect with quizlet
+- [ ] support more dictionary
+
+## Document
+- [Task lists in all markdown documents](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
